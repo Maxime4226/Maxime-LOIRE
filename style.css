@@ -1,0 +1,50 @@
+html, body {
+	background-color:#581845
+}
+
+h1, h2, h3 {
+	font-family: 'Signika', sans-serif;	
+}
+
+h1{
+	color:#900C3F;
+	font-weight: bold;
+	font-size: 31px;
+	text-align: center;
+ }
+ h2{
+ 	color: #FF5733; 
+ 	font-weight: bold;
+ 	font-size: 21px;
+ 	text-align: left;
+ }
+ 
+.container{
+	width: 1000px;
+	margin: 40px auto;
+}
+
+.card-white{
+	background-color: white;
+	border-radius: 4px;
+	margin-bottom: 30px;
+	box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.1);
+	padding: 30px 30px 20px 50px;
+	margin-left: 10px;
+}
+
+#radius{
+	border-radius: 95px;
+}
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+content{
+	font-size: 19px;
+	color: #C70039;
+	text-align: center;
+	line-height: 22px;
+}
